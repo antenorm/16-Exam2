@@ -165,7 +165,6 @@ def problem2(n, seq):
     else:
         return 'Too few'
 
-
     # -------------------------------------------------------------------------
     # Done: 2. Implement and test this function.
     #          Tests have been written for you (above).
